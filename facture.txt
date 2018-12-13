@@ -1,0 +1,1 @@
+<h3>Liste des animaux que vous avez acheté</h3><p>Animal 1</p>Pour un prix total de : 55
